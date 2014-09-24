@@ -1,0 +1,10 @@
+{
+  "name": "kimono-app",
+  "description": "Node app to request data from Kimonolabs",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "requestify": "*"
+  }
+}
